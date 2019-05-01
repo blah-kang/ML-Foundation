@@ -1,3 +1,3 @@
-- lecture 13 中关于数据预处理的介绍较少，为实际应用中其又占主导，推荐学习https://www.bilibili.com/video/av23933161第二章
+- lecture 13 中关于数据预处理的介绍较少，但实际应用中其又占主导，推荐学习https://www.bilibili.com/video/av23933161第二章
 - Lecture 14 中关于LASSO的优化方法可参考coord-desc.pdf
 - Work through the sklearn - 1.1. Generalized Linear Models
